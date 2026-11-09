@@ -51,6 +51,7 @@ export default function Footer() {
           <span>© 2026 <b className="foot-name">Tengeneza</b> · <T fr="Tous droits réservés" en="All rights reserved" /></span>
           <span className="foot-legal">
             <Link href="/privacy-policy"><T fr="Politique de confidentialité" en="Privacy Policy" /></Link>
+            <Link href="/terms-of-service"><T fr="Conditions d'utilisation" en="Terms of Service" /></Link>
             <Link href="/data-deletion"><T fr="Suppression des données" en="Data deletion" /></Link>
           </span>
           <a className="to-top" href="#main">
